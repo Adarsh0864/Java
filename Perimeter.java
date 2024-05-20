@@ -5,7 +5,7 @@ public class Perimeter {
         int Perimeter = 2*(a+b);
         int multiply = a*b;
 
-        System.out.println("this is perimetetr"+Perimeter);
+        System.out.println(Perimeter);
         System.out.println(multiply);
 
 
